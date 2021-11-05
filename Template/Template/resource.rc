@@ -1,0 +1,13 @@
+#include "resource.h"
+
+MYBITMAP3 BITMAP resources/jupiterPlanet.bmp
+BKBITMAP  BITMAP resources/background.bmp
+BLOCKBITMAP BITMAP resources/block.bmp
+SOLIDBLOCKBITMAP BITMAP resources/block_solid.bmp
+PADDLEBITMAP BITMAP resources/paddle.bmp
+AWSOMEFACEBITMAP BITMAP resources/awesomeface.bmp
+
+
+
+
+
